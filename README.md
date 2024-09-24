@@ -1,7 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Dynamics 365 Business Central Developer Certification Companion*](https://link.springer.com/book/	
-9798868809255) by Dr. Gomathi S (Apress, 2025).
+This repository accompanies [*Dynamics 365 Business Central Developer Certification Companion*](https://link.springer.com/book/9798868809255) by Dr. Gomathi S (Apress, 2025).
 
 [comment]: #cover
 ![Cover image](979-8-8688-0925-5.jpg)
